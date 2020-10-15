@@ -1,1 +1,2 @@
 # Mouse-Click-Game-Assignment
+This is a game where you click to start and get scored points based on how many ducks you shoot. This was made for a programming assignment in the first year of university. The criteria and specification for the project is in the Information folder and the download for the game is in the Download. You can also view the code for the program in the Programming Game folder.
